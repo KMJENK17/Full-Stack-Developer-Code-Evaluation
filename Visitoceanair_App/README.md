@@ -1,7 +1,7 @@
 
-# Sports Bros App
+# Visit Ocean Air App
 
-The Sports Bros App is sports news app. 
+The Visit Ocean Air app. This is an app developed in my coding bootcamp for our final project. There is a more detailed readme on the offical repo if more informaiton is needed.
 
 
 
@@ -9,13 +9,13 @@ The Sports Bros App is sports news app.
 
 ## Goals
 
-The goal was to create a sports news app that rivaled ESPN and was easy to use. The requirements were to make a fully functioning web app within a week to present. We deployed Sports Bros App within the allotted time using Surge.  
+The goal of creating Visit Ocean Air was to take Airbnb out of the picture for a local company. Upon deploying the website we did just that, but since then the company has used WordPress. 
 ## Authors
 
 - [@DerekDunlap](https://github.com/DerekDunlap)
 - [@KMJENK17](https://github.com/KMJENK17)
-- [@Gary]()
-- [@Sime]()
+- [@Zkellogg](https://github.com/Zkellogg)
+- [@amaso7](https://github.com/amaso7)
 
 ## Contributing
-I was responsible for a few sections of the project. I was responsible for displaying the news article information (i.e The Title, Picture, and Date), The Styling of the "news boxes" and the HTML. 
+I was responsible for a few sections of the project. I was responsible for displaying the Guesty API in certain portions and The website styling of the various images, logos, text, and buttons. 
